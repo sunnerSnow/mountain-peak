@@ -11,6 +11,8 @@ body {
     font-size: $font-size-base;
     color: $secondary-color;
     line-height: 1.6;
+    width: 100%;
+    background-color: #ccc;
 }
 
 #app {
