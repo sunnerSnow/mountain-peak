@@ -11,6 +11,8 @@ body {
     font-size: $font-size-base;
     color: $secondary-color;
     line-height: 1.6;
+    width: 100%;
+    background-color: #ccc;
 }
 
 #app {
@@ -29,6 +31,9 @@ body {
         margin-bottom: $spacing-sm;
     }
 }
+
+
+
 
 // 響應式設計
 @media (max-width: $breakpoint-md) {
